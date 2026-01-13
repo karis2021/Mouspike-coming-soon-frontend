@@ -1,5 +1,5 @@
 # Mouspike - Coming soon page
-Conceptual and technical prototype is a funtional sketch.
+Conceptual and technical prototype (*funtional sketch*).
 
 # Descriprion
 This project is a conceptual and technical prototype for my brand Mouspike this web prototype represents an early functinal "sketch" created before building the official Shopify website.
