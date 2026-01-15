@@ -29,11 +29,11 @@ This project helped transform ideas into a clear base that could later be improv
 
 # Project structure 
 ## Project Structure
-- [index.html] – Main page structure
-- [style.css] – Layout and visual styling
-- [script.js] – Small interactive behavior
-- [assets/] – Images and media files
-- [docs/] – Project documentation and illustration brief
+- [index.html](index.html) – Main page structure
+- [style.css](style.css) – Layout and visual styling
+- [script.js](script.js) – Small interactive behavior
+- [assets/](assets/) – Images and media files
+- [docs/](docs/) – Project documentation and illustration brief
 
 # Current Status 
 Front-end only.
@@ -53,8 +53,8 @@ In future stages, this project will evolve into:
 A future full rebuilt with a stronger technical foundation, deeper storytelling and brand lore, and added more interactive elements but the most important stage will be a future AI assistant concept to help users understand the brand universe.
 
 # Professional Illustration Brief
-Brief (PDF):
-(docs/brief/Mouspike-LandingPage-Illustration-Brief-2025.pdf)
+[Brief (PDF)](docs/brief/Mouspike-LandingPage-Illustration-Brief-2025.pdf)
+
 (*Note: GitHub may not preview this PDF correctly. Please download to view the full document.*)
 
 
@@ -75,8 +75,7 @@ A professional illustrator later translated this conceptual direction into cohes
 The design direction, page structure, visual hierarchy and narrative flow of the landing page were fully defined by me.
 
 # Concept Exploration (AI-assited sketches)
-Concept:
-[assets/concept/sketch-01...06]
+[View full sketch gallery sketch-01...06](assets/concept/sketch-01.png)
 
 Early visual sketches were generated using AI tools as part of the
 concept exploration phase.
@@ -87,9 +86,9 @@ They served to:
 - Explore atmosphere and visual hierarchy
 - Support communication with the illustrator during the briefing phase
 
-- Concept exploration [sketch-01,02:] minimal identity and messaging
-- Concept exploration [sketch-03,04:] introduction of narrative elements
-- Concept exploration [sketch-05,06:] refined atmosphere and final direction
+- Concept exploration (sketch-01,02:) minimal identity and messaging
+- Concept exploration (sketch-03,04:) introduction of narrative elements
+- Concept exploration (sketch-05,06:) refined atmosphere and final direction
 
 AI-generated images were used only as a visual exploration tool during early ideation. I provided detailed instructions, iterations and refinements to guide these explorations. These images were never considered final assets.
 
