@@ -54,7 +54,7 @@ A future full rebuilt with a stronger technical foundation, deeper storytelling 
 
 # Professional Illustration Brief
 Brief (PDF):
-[docs/brief/Mouspike-LandingPage-Illustration-Brief-2025.pdf]
+(docs/brief/Mouspike-LandingPage-Illustration-Brief-2025.pdf)
 (*Note: GitHub may not preview this PDF correctly. Please download to view the full document.*)
 
 
