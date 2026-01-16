@@ -27,7 +27,7 @@ form.addEventListener("submit", async (e) => {
   return;
   }
   if (status === "exists") {
-  msg.textContent = "⚠️ You're already on the list.";
+  msg.textContent = "✅ You're in. Welcome to Mouspike Early Access.";
   return;
   }
   msg.textContent = "❌ Something went wrong. Try again.";
