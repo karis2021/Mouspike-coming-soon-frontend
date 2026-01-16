@@ -4,8 +4,6 @@ const form = document.getElementById("earlyAccessForm");
 const emailInput = document.getElementById("email");
 const msg = document.getElementById("formMsg");
 const API_BASE_URL = "https://mouspike-early-access-backend.onrender.com";
-const data = await res.json();
-
 
 form.addEventListener("submit", async (e) => {
   e.preventDefault();
@@ -21,21 +19,20 @@ form.addEventListener("submit", async (e) => {
       body: JSON.stringify({ email }),
     });
 
+  const data = await res.json();
   const status = (data.status || "").toLowerCase();
   if (status === "ok") {
   msg.textContent = "✅ You're in. Welcome to Mouspike Early Access.";
   emailInput.value = "";
   return;
   }
-
   if (status === "exists") {
   msg.textContent = "⚠️ You're already on the list.";
   return;
   }
-
   msg.textContent = "❌ Something went wrong. Try again.";
   } catch (err){
   console.error(err);
   msg.textContent = "❌ Backend nor reachable. Is it running?";
   }
-  });
+});
