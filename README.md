@@ -79,18 +79,15 @@ The design direction, page structure, visual hierarchy and narrative flow of the
 # Concept Exploration (AI-assited sketches)
 [View full sketch gallery sketch-01...06](assets/concept/sketch-01.png)
 
-Early visual sketches were generated using AI tools as part of the
-concept exploration phase.
-
+Early visual sketches were generated using AI tools as part of the concept exploration phase.
 These images were not used as final assets.
 They served to:
-- Test mood, composition, and symbolic elements
-- Explore atmosphere and visual hierarchy
-- Support communication with the illustrator during the briefing phase
-
-- Concept exploration (sketch-01,02:) minimal identity and messaging
-- Concept exploration (sketch-03,04:) introduction of narrative elements
-- Concept exploration (sketch-05,06:) refined atmosphere and final direction
+- Test mood, composition, and symbolic elements.
+- Explore atmosphere and visual hierarchy.
+- Support communication with the illustrator during the briefing phase.
+- Concept exploration (sketch-01,02:) minimal identity and messaging.
+- Concept exploration (sketch-03,04:) introduction of narrative elements.
+- Concept exploration (sketch-05,06:) refined atmosphere and final direction.
 
 AI-generated images were used only as a visual exploration tool during early ideation. I provided detailed instructions, iterations and refinements to guide these explorations. These images were never considered final assets.
 
